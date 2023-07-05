@@ -7,5 +7,7 @@ usamos o aplicativo org.antlr.v4.Tool
 
 
 -cp para apontar no CLASSPATH a bibliioteca
--o indica que você irá gravar os arquivos na pasta correspondente]
+
+-o indica que você irá gravar os arquivos na pasta correspondente
+
 -package indica que cada classe gerada terá o cabeçalho do package definido
